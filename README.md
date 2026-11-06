@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.gif" alt="Joker" width="35%" />
+<img src="icon.png" alt="Joker" width="120" />
 
 # Joker Tool
 
-Ứng dụng desktop (Windows) viết bằng Rust + egui, giao diện tiếng Việt.
+Ứng dụng Windows viết bằng Rust + egui, giao diện tiếng Việt.
 
 [![Release](https://img.shields.io/github/v/release/2amkeyl/joker-tool?style=flat-square&color=e82036&v=2)](https://github.com/2amkeyl/Joker-Tool/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/2amkeyl/joker-tool/total?style=flat-square&color=e82036&v=2)](https://github.com/2amkeyl/Joker-Tool/releases)
@@ -15,16 +15,16 @@
 
 | Tab | Mô tả |
 | --- | --- |
-| **Cày Quest** | Tự động nhận và hoàn thành quest Discord |
-| **Buff Badge** | Giả lập giờ chơi + số game để mở khoá badge |
+| **Cày Quest** | Tự động cày quest Discord |
+| **Buff Badge** | Giả lập giờ chơi + số game để mở khoá Badge |
 | **HypeSquad** | Đổi / gỡ nhà HypeSquad |
 
 ---
 
 ## Tải về
 
-1. Mở trang **[Releases](https://github.com/2amkeyl/joker-tool/releases/latest)** (cột bên phải của repo, mục **Releases**).
-2. Kéo xuống phần **Assets**, bấm vào **`JokerTool-windows-x64.zip`** để tải.
+1. Mở trang **[Releases](https://github.com/2amkeyl/joker-tool/releases/latest)**.
+2. Bấm vào **`JokerTool-windows-x64.zip`** để tải.
 3. Giải nén file zip (chuột phải → *Extract All…*).
 4. Mở **`JokerTool.exe`**.
 
@@ -36,8 +36,8 @@ https://github.com/2amkeyl/joker-tool/releases/latest/download/JokerTool-windows
 
 ## Yêu cầu
 
-- Windows 10 hoặc 11 (64-bit)
-- Một tài khoản Discord và User Token của tài khoản đó
+- Windows 10 hoặc 11 (64-bit).
+- Một tài khoản Discord và User Token của tài khoản đó.
 
 ## Lần đầu mở app
 
